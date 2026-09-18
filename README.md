@@ -26,6 +26,10 @@ Full-stack library platform built with Spring Boot, React and TypeScript. Includ
 Academic platform developed in a two-person team. Built with Java 21, Spring Boot, Spring Security/JWT, JPA, MySQL, geospatial processing, email services and PDF generation. I contributed as a project collaborator.
 
 
+### [NewsApp — AI News Summarizer](https://github.com/islych/NewsApp)
+Spring Boot application that imports and manages news articles and uses Hugging Face's `facebook/bart-large-cnn` model to generate concise AI summaries. Built with Java 21, Spring Security/JWT, JPA and MySQL.
+
+
 ### [MedServe](https://github.com/islych/MedServe)
 Web application project focused on healthcare services and user-facing workflows.
 
