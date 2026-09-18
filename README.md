@@ -22,6 +22,10 @@ Computer Science student based in Casablanca, Morocco, focused on backend and fu
 ### [Online Library Platform](https://github.com/islych/springbootBiblio)
 Full-stack library platform built with Spring Boot, React and TypeScript. Includes JWT authentication, role-based access, Neo4j-powered recommendations, Docker and API documentation.
 
+### [Fibre Optique Management Platform — Team Project](https://github.com/aymenyassine/fibre_oprtique_pfa)
+Academic platform developed in a two-person team. Built with Java 21, Spring Boot, Spring Security/JWT, JPA, MySQL, geospatial processing, email services and PDF generation. I contributed as a project collaborator.
+
+
 ### [MedServe](https://github.com/islych/MedServe)
 Web application project focused on healthcare services and user-facing workflows.
 
