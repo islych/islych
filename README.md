@@ -1,49 +1,61 @@
-# Hi, I'm Islam Chaachaa 👋
+# Islam Chaachaa
 
-Computer Science student based in Casablanca, Morocco, focused on backend and full-stack development.
+Software engineering student in Casablanca, Morocco, focused on backend development, full-stack engineering, distributed systems and applied AI.
 
-🎯 **Currently seeking a PFE internship** where I can contribute to real-world software projects and grow as a Java / Spring Boot or full-stack developer.
+I am currently seeking a **PFE internship** where I can contribute to reliable software products, learn from an engineering team and deepen my experience with Java/Spring Boot or .NET.
 
-## About me
+## Engineering focus
 
-- Building backend applications and REST APIs with Java and Spring Boot
-- Developing modern web interfaces with React and TypeScript
-- Interested in software architecture, authentication, databases, and recommendation systems
-- Open to opportunities in Morocco, remote environments, and international teams
+- Backend services and REST APIs with Java, Spring Boot and ASP.NET Core
+- Full-stack applications with React, TypeScript and Razor Pages
+- Authentication, relational data modelling and service-oriented architectures
+- AI-assisted application features and external API integrations
+- Reproducible development environments with Docker and Git
 
-## Technical skills
+## Technical stack
 
-**Backend:** Java, Spring Boot, Spring Security, REST APIs, JWT, Maven  
-**Frontend:** React, TypeScript, JavaScript, HTML, CSS, Tailwind CSS  
-**Data & tools:** Neo4j, SQL, Docker, Git, GitHub, Swagger/OpenAPI
+| Area | Technologies |
+| --- | --- |
+| Backend | Java, Spring Boot, Spring Security, C#, ASP.NET Core, REST APIs |
+| Frontend | React, TypeScript, JavaScript, Razor Pages, HTML, CSS |
+| Data | SQL Server, MySQL, Neo4j, JPA/Hibernate, Entity Framework Core |
+| Engineering | Docker, Git, GitHub, Maven, OpenAPI |
 
-## Featured projects
+## Experience
+
+### Software Engineering Intern — ONEE
+
+Contributed to an internship-management platform built with **ASP.NET Core, Razor Pages, SQL Server and a microservices architecture**. The source code and internal implementation details are not published because the work is confidential.
+
+## Selected projects
 
 ### [Online Library Platform](https://github.com/islych/springbootBiblio)
-Full-stack library platform built with Spring Boot, React and TypeScript. Includes JWT authentication, role-based access, Neo4j-powered recommendations, Docker and API documentation.
+
+Full-stack library platform built with Spring Boot, React and TypeScript. It includes JWT authentication, role-based access, REST APIs, Neo4j-based recommendations, Docker and OpenAPI documentation.
+
+### [NewsApp — AI-assisted News Platform](https://github.com/islych/NewsApp)
+
+Spring Boot REST application for publishing, importing and interacting with news articles. It integrates NewsAPI and uses Hugging Face's `facebook/bart-large-cnn` model to generate concise article summaries.
 
 ### [Fibre Optique Management Platform — Team Project](https://github.com/aymenyassine/fibre_oprtique_pfa)
-Academic platform developed in a two-person team. Built with Java 21, Spring Boot, Spring Security/JWT, JPA, MySQL, geospatial processing, email services and PDF generation. I contributed as a project collaborator.
 
-
-### [NewsApp — AI News Summarizer](https://github.com/islych/NewsApp)
-Spring Boot application that imports and manages news articles and uses Hugging Face's `facebook/bart-large-cnn` model to generate concise AI summaries. Built with Java 21, Spring Security/JWT, JPA and MySQL.
-
+Academic platform developed in a two-person team with Java 21, Spring Boot, Spring Security/JWT, JPA, MySQL and geospatial processing. I contributed to this project as a collaborator.
 
 ### [MedServe](https://github.com/islych/MedServe)
-Web application project focused on healthcare services and user-facing workflows.
+
+Role-based medical appointment platform built with Spring Boot, Spring Security, JWT, JPA, Thymeleaf and MySQL for patients, doctors and medical assistants.
 
 ### [.NET Library Management](https://github.com/islych/projet_dotnet_biblio)
-Library-management project developed with C# and the .NET ecosystem.
 
-## Portfolio
+ASP.NET Core MVC application for managing a digital library, including catalog search, roles, favorites, downloads and administration workflows backed by SQL Server.
 
-🌐 [View my portfolio](https://islych.github.io/portfolio/)
+### [Developer Portfolio](https://github.com/islych/portfolio)
 
-## Current goal
+Responsive personal portfolio presenting academic and web-development projects with supporting screenshots and demonstrations.
 
-I am looking for a PFE internship where I can work on backend or full-stack development, collaborate with an engineering team, and deliver a well-documented production-oriented project.
+## Contact
 
----
+- [Portfolio](https://islych.github.io/portfolio/)
+- [GitHub](https://github.com/islych)
 
-Feel free to explore my repositories and follow my progress.
+I am available for PFE internship opportunities in backend or full-stack software engineering.
